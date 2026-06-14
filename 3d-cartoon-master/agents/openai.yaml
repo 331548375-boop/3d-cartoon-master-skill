@@ -1,7 +1,0 @@
-interface:
-  display_name: "3D Cartoon Master"
-  short_description: "口播视频生成奶油3D知识卡片动画"
-  brand_color: "#8B5CF6"
-  default_prompt: "Use $3d-cartoon-master to turn this talking-head video into a synced pastel 3D cartoon knowledge-card video."
-policy:
-  allow_implicit_invocation: true
